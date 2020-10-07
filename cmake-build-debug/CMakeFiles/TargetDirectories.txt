@@ -1,0 +1,3 @@
+C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/CMakeFiles/mine_shui_ji_shu.dir
+C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

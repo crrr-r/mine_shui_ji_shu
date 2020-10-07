@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="mine_shui_ji_shu"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mine_shui_ji_shu">
+				<Option output="C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/mine_shui_ji_shu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\clion\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="d:\clion\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="d:\clion\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 mine_shui_ji_shu"/>
+					<CompileFile command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mine_shui_ji_shu/fast">
+				<Option output="C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/mine_shui_ji_shu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\clion\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="d:\clion\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="d:\clion\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 mine_shui_ji_shu/fast"/>
+					<CompileFile command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/12399/Desktop/demo/mine shui ji shu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/12399/Desktop/demo/mine shui ji shu/main.c">
+			<Option target="mine_shui_ji_shu"/>
+		</Unit>
+		<Unit filename="C:/Users/12399/Desktop/demo/mine shui ji shu/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
